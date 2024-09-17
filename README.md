@@ -27,5 +27,7 @@ d. Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do t
 - I was able to do it by the help of the ipynb that's given to us. I used it as a guide.
 - While doing the program, I encountered difficulties on loadibng the .csv file given to us for some reason that it is not the same path with my
   program.
+- My other Issue is that I find it hard to rename the file because it was not running everytime  I try to rename it with numbersign or _.
 - Other than that, I was able to excute the file and be able to finish the assignment in no time.
-
+- I Learned that calling an information needed is easier with Python with the use of .loc() etcs. Codes are way shorter than c++ so its more clean and 
+  easy to use.
